@@ -7,4 +7,5 @@ At the end of this course, you will be able to
 ### b) Create a responsive web page design
 ### c) Make use of web tools to setup and manage web sites. This course also includes an honors track that enables you to work on your own project developing a website using Bootstrap 4. 
 
-You need to have prior good working knowledge of HTML, CSS and JavaScript to lean for this course.
+## Note:
+### You need to have prior good working knowledge of HTML, CSS and JavaScript to lean for this course.
